@@ -1,5 +1,5 @@
 JavaScript
 
 function sayHello() {
-   alert("Hello! Welcome to my website.");
+   alert("Hello! Welcome to my webpage.");
 {
